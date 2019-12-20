@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#app{
+  width:375px;
+  height:375px;
+  background-color: red;
+}
